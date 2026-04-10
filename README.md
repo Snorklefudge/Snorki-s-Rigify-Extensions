@@ -80,6 +80,9 @@ The rig types will appear in the **Rigify Type** dropdown on any pose bone.
 > Tutorial coming soon!
 
 ---
+## Credits
+
+Rig types developed with the help of [Claude](https://claude.ai) by Anthropic.
 
 ## Requirements
 
@@ -89,3 +92,4 @@ The rig types will appear in the **Rigify Type** dropdown on any pose bone.
 ## License
 
 GNU GPL v2 — see [LICENSE](LICENSE)
+
