@@ -51,6 +51,8 @@ https://github.com/user-attachments/assets/aa055975-a466-4046-97ee-3be13a2c5919
 
 The rig types will appear in the **Rigify Type** dropdown on any pose bone.
 
+<img width="543" height="523" alt="snorki_feature_set" src="https://github.com/user-attachments/assets/fc6d9782-471f-47ac-9928-17af6007a331" />
+
 ---
 
 ## Usage
@@ -85,6 +87,7 @@ The rig types will appear in the **Rigify Type** dropdown on any pose bone.
 ## Credits
 
 Rig types developed with the help of [Claude](https://claude.ai) by Anthropic.
+Based on the idea form: [tonydayo86](https://www.youtube.com/watch?v=-1MzxLW2sQw) on youtube
 
 ## Requirements
 
