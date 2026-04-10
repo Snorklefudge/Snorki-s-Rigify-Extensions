@@ -19,10 +19,9 @@ A full prop bone rig that generates an **ORG / DEF / MCH / CTRL** stack with a s
 - Parent list survives rig regeneration
 - If the bone is parented to other bones in the metarig, those parents are automatically included in the switch list
 
-**Use case:** Props like weapons, bows, tools — anything that needs to switch between hands or other attachment points.
+**Use case:** Props like weapons or tools — anything that needs to switch between hands or other attachment points.
 
-<!-- Screenshot: switchable_parent panel in Rigify Type -->
-<!-- Screenshot: Parent dropdown in the generated rig UI -->
+https://github.com/user-attachments/assets/944031d0-651f-4718-8286-796200ce8f3e
 
 ---
 
@@ -35,10 +34,9 @@ An extended version of Rigify's built-in `limbs.arm` rig, identical in every way
 - Parent list survives rig regeneration
 - You can use this to parent one hand IK to another, just make sure not to have them set to each other at the same time, otherwise both will move erratically.
 
-**Use case:** Characters that need to grab objects or surfaces — adds custom bones like `bow`, `quiver`, or prop controls as valid IK hand parents.
+**Use case:** Characters that need to grab objects or surfaces — adds custom bones like `sword`, `box`, or character bones as valid IK hand parents.
 
-<!-- Screenshot: snorki.limbs.arm extra parents panel -->
-<!-- Screenshot: IK Parent dropdown with extra entries -->
+https://github.com/user-attachments/assets/aa055975-a466-4046-97ee-3be13a2c5919
 
 ---
 
