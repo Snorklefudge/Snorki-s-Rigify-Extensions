@@ -64,12 +64,16 @@ The rig types will appear in the **Rigify Type** dropdown on any pose bone.
 3. To add extra parents: in Pose Mode, **Shift-click** the target bone(s) alongside your prop bone (active), then click **Add Selected Bone as Parent**
 4. Generate the rig — the Parent dropdown appears in the **Rig Main Properties** panel
 
+<img width="572" height="356" alt="snorki_switchable_parent" src="https://github.com/user-attachments/assets/f8285ac4-a779-4c4a-80f4-d1fd6be9339d" />
+
 ### snorki.limbs.arm
 
 1. Set your upper arm bone's Rigify Type to `snorki.limbs.arm` instead of `limbs.arm`
 2. Scroll to the bottom of the parameters panel
 3. Add extra IK parents the same way as above
 4. Generate the rig — extra parents appear at the end of the **IK Parent** dropdown
+
+<img width="572" height="586" alt="snorki_limbs_arm" src="https://github.com/user-attachments/assets/c02d9e0c-77f2-48c1-8577-c603fb7feb18" />
 
 ---
 
